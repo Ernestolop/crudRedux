@@ -1,0 +1,14 @@
+{
+  "productos": [
+    {
+      "id": 5,
+      "name": "Jugo de Fresav2",
+      "price": "2000"
+    },
+    {
+      "id": 6,
+      "name": "Jugo de Zanahoriav2",
+      "price": "500"
+    }
+  ]
+}
